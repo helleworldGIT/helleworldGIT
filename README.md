@@ -1,3 +1,5 @@
+# This document is writen in both, English and Spanish. Keep scrolling for the English version. ✍
+
 # Spanish
 
 ## ¡Hola, internet 👋!
