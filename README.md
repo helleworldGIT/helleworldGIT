@@ -128,6 +128,6 @@ Check some pictures of my designs. See more [**here**](https://www.behance.net/d
 
 ___
 
-## 🟣 ¡Hablemos!
+## 🟣 Let's talk!
 
 You'll find me in [Twitter](https://twitter.com/helleworld_), [LinkedIn](https://www.linkedin.com/in/desir%C3%A9-m-carmona-040438145/) or send me an email to: *work@desiremcarmona.com*. 😉
