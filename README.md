@@ -11,7 +11,7 @@ Soy una novelista fracasada, ilustradora sin talento, diseñadora/desarrolladora
 
 ___
 
-## Proyectos
+## 🟣 Proyectos
 
 Algunas de las cositas interesantes que puedes ver sobre mí son algunos de mis proyectos:
 
@@ -29,7 +29,7 @@ Algunas de las cositas interesantes que puedes ver sobre mí son algunos de mis 
 
 ___
 
-## Artículos y guías
+## 🟣 Artículos y guías
 
 También encontrarás en mi [**página web**](https://desiremcarmona.com/#/) algunas de mis guías de **Vuejs Facilito**, que cuentan como una breve introducción a Vue para quien quiere trastear pero sin tomar demasiado tiempo.
 
@@ -51,7 +51,7 @@ And some others writen in english in my Dev.to profile:
 
 ___
 
-## Algunos de mis diseños
+## 🟣 Algunos de mis diseños
 
 A continuación, unas cuantas fotitos de mis proyectos de diseño. Encontrarás más [**aquí**](https://www.behance.net/desiremcarmona):
 
@@ -61,7 +61,7 @@ A continuación, unas cuantas fotitos de mis proyectos de diseño. Encontrarás 
 
 ___
 
-## ¡Hablemos!
+## 🟣 ¡Hablemos!
 
 Me encontrarás en [Twitter](https://twitter.com/helleworld_) y en [LinkedIn](https://www.linkedin.com/in/desir%C3%A9-m-carmona-040438145/) o directamente envíame un mail a *work@desiremcarmona.com*. 😉
 
@@ -78,7 +78,7 @@ I'm a horrible novelist, a non-creative illustrator, web designer and developer,
 
 ___
 
-## Projects
+## 🟣 Projects
 
 Here you can see some of the nice things I'm able to code:
 
@@ -96,7 +96,7 @@ Here you can see some of the nice things I'm able to code:
 
 ___
 
-## Guides and Articles
+## 🟣 Guides and Articles
 
 You'll find my **Vuejs Facilito** guides in my [**website**](https://desiremcarmona.com/#/), as a Vue introduction for those who are too busy to invest much time learning Vue.
 
@@ -118,7 +118,7 @@ And some others writen in english in my Dev.to profile:
 
 ___
 
-## My designs
+## 🟣 My designs
 
 Check some pictures of my designs. See more [**here**](https://www.behance.net/desiremcarmona):
 
@@ -128,6 +128,6 @@ Check some pictures of my designs. See more [**here**](https://www.behance.net/d
 
 ___
 
-## ¡Hablemos!
+## 🟣 ¡Hablemos!
 
 You'll find me in [Twitter](https://twitter.com/helleworld_), [LinkedIn](https://www.linkedin.com/in/desir%C3%A9-m-carmona-040438145/) or send me an email to: *work@desiremcarmona.com*. 😉
