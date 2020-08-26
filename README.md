@@ -5,12 +5,15 @@ I'm **Desiré** (she/her)👱‍♀️.
 ✍ Educative **content creator**; writer.
 
 🎨 UX/UI **Designer**; Web/Gráfica/App Designer.
+
 ➜ [Figma, Sketch, Adobe XD, Illustrator, Photoshop].
 
 💻 **Interface developer**.
+
 ➜ [Vuejs, HTML, CSS, JavaScript, Bulma CSS, SASS/SCSS].
 
 🔌 Creating functionality for amazing interfaces with:
+
 ➜ [AXIOS, APIs, Phaser, NPM]
 
 👩‍🏫 Bootcamp **teacher**; LinkedIn Learning **instructor**; Mentor.
