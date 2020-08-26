@@ -6,15 +6,15 @@ I'm **Desiré** (she/her)👱‍♀️.
 
 🎨 UX/UI **Designer**; Web/Gráfica/App Designer.
 
-➜ [Figma, Sketch, Adobe XD, Illustrator, Photoshop].
+➜ *[Figma, Sketch, Adobe XD, Illustrator, Photoshop].*
 
 💻 **Interface developer**.
 
-➜ [Vuejs, HTML, CSS, JavaScript, Bulma CSS, SASS/SCSS].
+➜ *[Vuejs, HTML, CSS, JavaScript, Bulma CSS, SASS/SCSS].*
 
 🔌 Creating functionality for amazing interfaces with:
 
-➜ [AXIOS, APIs, Phaser, NPM]
+➜ *[AXIOS, APIs, Phaser, NPM]*
 
 👩‍🏫 Bootcamp **teacher**; LinkedIn Learning **instructor**; Mentor.
 
