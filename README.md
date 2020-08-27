@@ -1,10 +1,10 @@
-## Hello, internet! 👋
+# Hello, internet! 👋
 
 I'm **Desiré** (she/her)👱‍♀️.
 
 You may know me from previous episodes, writing some articles, creating some designs, sharing techie content or giving classes in a Bootcamp.
 
-## What I do
+# What I do
 
 ✍ Educative **content creator**; writer.
 
@@ -24,7 +24,7 @@ You may know me from previous episodes, writing some articles, creating some des
 
 📣 Active **speaker**.
 
-## Values n' interests
+# Values n' interests
 
 🙅‍♀️ **Leadership doesn't mean dictatorship**.
 
@@ -44,7 +44,7 @@ You may know me from previous episodes, writing some articles, creating some des
 
 🎮 **Videogames** lover.
 
-## Let's talk
+# Let's talk
 
 You can reach me via email to work@desiremcarmona.com or via [Twitter](https://twitter.com/helleworld_). I'll be glad to hear from you!
 
