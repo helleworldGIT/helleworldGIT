@@ -22,6 +22,8 @@ You may know me from previous episodes, writing some articles, creating some des
 
 👩‍🏫 Bootcamp **teacher**; LinkedIn Learning **instructor**; Mentor.
 
+🎓 Offering mentorships&tips. Contact me via [Twitter](https://twitter.com/helleworld_).
+
 📣 Active **speaker**.
 
 # Values n' interests
