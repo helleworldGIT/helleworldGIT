@@ -2,6 +2,8 @@
 
 I'm **Desiré** (she/her)👱‍♀️.
 
+You may know me from previous episodes, writing some articles, creating some designs, sharing techie content or giving classes in a Bootcamp.
+
 ## What I do
 
 ✍ Educative **content creator**; writer.
