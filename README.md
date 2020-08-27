@@ -4,7 +4,7 @@ I'm **Desiré** (she/her)👱‍♀️.
 
 ✍ Educative **content creator**; writer.
 
-🎨 UX/UI **Designer**; Web/Gráfica/App Designer.
+🎨 UX/UI **Designer**; Web/Graphic/App Designer.
 
 ➜ *[Figma, Sketch, Adobe XD, Illustrator, Photoshop].*
 
