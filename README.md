@@ -1,4 +1,4 @@
-## ¡Hello, internet! 👋
+## Hello, internet! 👋
 
 I'm **Desiré** (she/her)👱‍♀️.
 
