@@ -2,6 +2,8 @@
 
 I'm **Desiré** (she/her)👱‍♀️.
 
+## What I do
+
 ✍ Educative **content creator**; writer.
 
 🎨 UX/UI **Designer**; Web/Graphic/App Designer.
@@ -19,6 +21,30 @@ I'm **Desiré** (she/her)👱‍♀️.
 👩‍🏫 Bootcamp **teacher**; LinkedIn Learning **instructor**; Mentor.
 
 📣 Active **speaker**.
+
+## Values n' interests
+
+🙅‍♀️ **Leadership doesn't mean dictatorship**.
+
+💁‍♀️ Our **identities** shouldn't be imposed.
+
+👩‍🦽 Inclusivity—Accessibility are **not** choices, but **rights**.
+
+🙆‍♀️ Bulding **safe spaces** for everyone is a must.
+
+☕ **I don't drink** anything else but coffee, water and tea.
+
+📚 I **read**. A lot. About everything.
+
+🔭 Amazed by **astrology and astronomy**.
+
+🧬 A **science geek**.
+
+🎮 **Videogames** lover.
+
+## Let's talk
+
+You can reach me via email to work@desiremcarmona.com or via [Twitter](https://twitter.com/helleworld_). I'll be glad to hear from you!
 
 …
 
